@@ -1,0 +1,16 @@
+.tarjetaEstilos{
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+    
+}
+
+.imgEstilos{
+    width: 230px;
+    height: 345px;
+    border-radius: 3px;
+}
+
+.movieCard:hover{
+    opacity: 0.8;
+}
